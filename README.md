@@ -30,7 +30,7 @@ js-sketchbook-boilerplate:
   these patterns.
   * This project chose RequireJS's AMD modularization over the [CommonJS](https://www.google.com/search?q=AMD+vs.+commonjs)
   format.  This project chose [Jasmine](http://pivotal.github.com/jasmine/) for in-browser unit testing over
-  alternatives like [Mocha](http://visionmedia.github.com/mocha/) and [Chai](http://chaijs.com/). [JamJS](http://jamjs.org/)
+  alternatives like [Mocha](http://mochajs.org/) and [Chai](http://chaijs.com/). [JamJS](http://jamjs.org/)
   was chosen because it promised ready-to-use javascript packaging (but NPM seems to be the victor these days... TODO.)
   * To some extent these
   decisions were made for simplicity, and to some extent these decisions were made based on the author's familiarity.
